@@ -9,6 +9,8 @@ public class test{
             @Test
     public void  testet(){
                 System.out.println("helloworld!");
+                System.out.println("你好");
+                System.out.println("帅哥");
 
 
             }
